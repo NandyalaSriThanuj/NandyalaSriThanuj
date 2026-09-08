@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Sri Thanuj 👋
 
-<!--
-**NandyalaSriThanuj/NandyalaSriThanuj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Student | Data Analyst Enthusiast | Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a 2nd-year AI/ML student interested in building practical
+applications using AI, data, and modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Work With
+
+- Python
+- SQL
+- Machine Learning
+- NLP
+- React
+- Node.js
+- Express
+- PostgreSQL
+- Supabase
+- Git & GitHub
+
+## 🌟 Featured Projects
+
+### 🔄 SkillSwap
+A peer-to-peer skill exchange platform with AI-powered skill
+matching and hyperlocal discovery.
+
+**Tech:** React, Node.js, Express, PostgreSQL, Supabase
+
+### 📄 InternAura
+An AI-powered resume analysis and internship recommendation system.
+
+**Tech:** Python, NLP, React, APIs
+
+### 🎓 CampusPulse
+A platform designed to improve communication and engagement
+within a campus environment.
+
+## 📚 Currently Learning
+
+- Data Analytics
+- Machine Learning
+- Advanced SQL
+- Python
+- Backend Development
+
+## 📫 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_LINK)
+
+[GitHub](https://github.com/NandyalaSriThanuj)
